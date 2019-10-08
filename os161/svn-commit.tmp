@@ -1,0 +1,5 @@
+
+--This line, and those below, will be ignored--
+
+M    kern/arch/mips/mips/syscall.c
+M    kern/main/menu.c
